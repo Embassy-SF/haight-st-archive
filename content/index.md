@@ -2,4 +2,4 @@
 title: Welcome to Quartz
 ---
 
-Test page for the Open Mutualism Guild
+Test homepage for the Open Mutualism Guild
