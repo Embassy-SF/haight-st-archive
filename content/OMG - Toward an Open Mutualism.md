@@ -2,7 +2,7 @@
 
 
 ## Tl;Dr
-This document proposes a guild model for institutionally unaffiliated humanities and social science research into mutualist organizational forms. A guild implies that members retain a high level of autonomy over their work while pooling legitimacy in an associative capacity in the hopes of developing a mutual sustainability in their efforts. To this end, the document endorses a low-overhead model of collaboration that falls short of the organizational capacities of a DAO.
+This document proposes a guild model for institutionally unaffiliated humanities and social science research into mutualist organizational forms. A guild implies that members retain a high level of autonomy over their work while pooling legitimacy in an associative capacity in the hopes of developing a mutual sustainability in their efforts. To this end, the document endorses a model with a lower collaborative overhead than what is typically associated with a DAO.
 
 Open Mutualism Guild proposes support for work in two research tracks: an *economic mutualism* track (referring to strategies of human-to human political economic reciprocity), and a *weird mutualism* track (referring to strategies of political economic reciprocity with greater than human creatures and forces). OMG departs from the strict guild model in that it proposes a small portion of resources go to a fund for comparative study between the two, a form of reciprocity in itself that this document argues is necessary to keep an empirical or practical edge to both tracks. Our intention is to aid web3 contributions to a mutualist politic while maintaining an open orientation that will keep fidelity to the practical, ideologically ambivalent heart of its engineers' sensibility.
 
