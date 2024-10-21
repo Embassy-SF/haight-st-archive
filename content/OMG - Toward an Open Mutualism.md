@@ -1,3 +1,6 @@
+---
+author: Exeunt, Clinamenic, Vengist, T W
+---
 “All of us must become more ontologically inventive and sensible.” - Donna Haraway
 
 
@@ -70,4 +73,4 @@ The **Comparative Study** track is intended to provoke and inspire practical app
 ---
 
 
-If you are interested in joining this experiment or would like to participate as a funder, you can email Clinamenic <ssc@clinamenic.com> or find Exeunt or Clinamenic on twitter or telegram. Watch as we populate our library and find other updates at openmutualism.xyz
+If you are interested in joining this experiment or would like to participate as a funder, you can email Clinamenic <ssc@clinamenic.com> or find Exeunt or Clinamenic on twitter or telegram. Watch as we populate our library and find other updates at openmutualism.xyz.
