@@ -1,4 +1,6 @@
 ---
-formation-date: 
+formation-date:
 end-date:
 ---
+
+(Placeholder)

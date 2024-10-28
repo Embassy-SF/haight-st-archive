@@ -2,6 +2,73 @@
 @use "./syntax.scss";
 @use "./callouts.scss";
 
+
+/* Geist Thin */
+@font-face {
+  font-family: "Geist";
+  src: url(https://arweave.net/EKD1oJbrcYsq9KmuS1s_vlQ17ycwihXnIFEeir-GK7s);
+  src: url(https://arweave.net/EKD1oJbrcYsq9KmuS1s_vlQ17ycwihXnIFEeir-GK7s) format("opentype");
+  font-weight: 100;
+}
+/* Geist Ultralight */
+@font-face {
+  font-family: "Geist";
+  src: url(https://arweave.net/73EINZ0yU9TF4Xss51WWN2HX6bpOY-Mp1BWtcaee7-4);
+  src: url(https://arweave.net/73EINZ0yU9TF4Xss51WWN2HX6bpOY-Mp1BWtcaee7-4) format("opentype");
+  font-weight: 200;
+}
+/* Geist Light */
+@font-face {
+  font-family: "Geist";
+  src: url(https://arweave.net/BE3i75zn79wtDRxWUEP2yGGTC8w8wh4TYqMXWWb-Jzs);
+  src: url(https://arweave.net/BE3i75zn79wtDRxWUEP2yGGTC8w8wh4TYqMXWWb-Jzs) format("opentype");
+  font-weight: 300;
+}
+/* Geist Regular */
+@font-face {
+  font-family: "Geist";
+  src: url(https://arweave.net/eaXRvrY0YNmj4kvNYGzNuZ8MiItxi82rbwNAB_BCs8o);
+  src: url(https://arweave.net/eaXRvrY0YNmj4kvNYGzNuZ8MiItxi82rbwNAB_BCs8o) format("opentype");
+  font-weight: 400;
+}
+/* Geist Medium */
+@font-face {
+  font-family: "Geist";
+  src: url(https://arweave.net/gM8y9tdLZ9GlJgVim0lw-7XetfCq-pRkO0xpQCo--XU);
+  src: url(https://arweave.net/gM8y9tdLZ9GlJgVim0lw-7XetfCq-pRkO0xpQCo--XU) format("opentype");
+  font-weight: 500;
+}
+/* Geist Semibold */
+@font-face {
+  font-family: "Geist";
+  src: url(https://arweave.net/fKSg8aH1cSuW695r8hTmU-a9eUgBpoNHKNhQl1Cdffg);
+  src: url(https://arweave.net/fKSg8aH1cSuW695r8hTmU-a9eUgBpoNHKNhQl1Cdffg) format("opentype");
+  font-weight: 600;
+}
+/* Geist Bold */
+@font-face {
+  font-family: "Geist";
+  src: url(https://arweave.net/rH3KWxNUP-GoLLH6TsFiqVEOaQbOYCIC8sIIp80l8jA);
+  src: url(https://arweave.net/rH3KWxNUP-GoLLH6TsFiqVEOaQbOYCIC8sIIp80l8jA) format("opentype");
+  font-weight: 700;
+}
+/* Geist Black */
+@font-face {
+  font-family: "Geist";
+  src: url(https://arweave.net/vAnTrNJm39GYi-LO8HPVa8ox4b4lyFM2lXXFT5kzvu8);
+  src: url(https://arweave.net/vAnTrNJm39GYi-LO8HPVa8ox4b4lyFM2lXXFT5kzvu8) format("opentype");
+  font-weight: 800;
+}
+/* Geist Ultrablack */
+@font-face {
+  font-family: "Geist";
+  src: url(https://arweave.net/N2MLMXdXj3Fj0bg8qP-J8jUuE7bog5ebpe6Ln_Lq7GY);
+  src: url(https://arweave.net/N2MLMXdXj3Fj0bg8qP-J8jUuE7bog5ebpe6Ln_Lq7GY) format("opentype");
+  font-weight: 900;
+}
+
+
+
 html {
   scroll-behavior: smooth;
   text-size-adjust: none;
@@ -14,7 +81,8 @@ section {
   margin: 0;
   box-sizing: border-box;
   background-color: var(--light);
-  font-family: var(--bodyFont);
+  font-family: "Geist";
+  font-weight: 300;
   color: var(--darkgray);
 }
 
@@ -319,9 +387,9 @@ h4,
 h5,
 h6,
 thead {
-  font-family: var(--headerFont);
+  font-family: "Geist";
   color: var(--dark);
-  font-weight: revert;
+  font-weight: 600;
   margin-bottom: 0;
 
   article > & > a[role="anchor"] {
