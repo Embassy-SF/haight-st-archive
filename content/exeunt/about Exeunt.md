@@ -1,0 +1,1 @@
+#Exeunt is an underground researcher who uses cultural and design anthropology to map the patterns of extitutional space, both digital and urban. His primary concerns are posthuman social organization, mutualist economics, direct democracy and open protocolization in underground  communities. He uses archival and field investigation to these ends. 
