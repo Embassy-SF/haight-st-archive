@@ -1,6 +1,8 @@
 ---
 author: Exeunt
 ---
+ ![](https://images.mirror-media.xyz/publication-images/uYylR1v9RkcRBNP4lQfPn.jpeg?height=1678&width=3355)
+
 {Freedom} is certainly not the right to own the economic, social, political, or cultural capital in order to dominate others and trade their happiness in a monopolistic market. Freedom is the process by which you develop a practice for being unavailable for servitude.
 
 - Avery F Gordon paraphrasing Toni Cade Bambara (Quoted by Maggie Nelson)
@@ -8,13 +10,12 @@ author: Exeunt
 His body was like topaz, his face like lightning, his eyes like flaming torches, his arms and legs like the gleam of burnished bronze, and his voice like the sound of a multitude.
 
 - Daniel 10:6
- ![](https://images.mirror-media.xyz/publication-images/uYylR1v9RkcRBNP4lQfPn.jpeg?height=1678&width=3355)
 
 I seem to have a strange, recurring tie with the ancient parish city of Lichfield, England. Something about the weird synchronicities that pile up in one’s research practice. Did I live there in a past life? Is there some ley line electromagnetism that connects my path to this town? I’ve never been - though, when I brought it up over drinks one night a few years ago, it turned out that my wife’s friend has an uncle who lives there, a history buff who takes kindly to visitors and loves to give tours. She shot him some texts, and I was told - through the generosity of social networks - that I always have a bed in Lichfield.
 
 My first exposure was by way of a footnote on the life of Lady Eleanor Davies, the poet and mystic - a millenarian radical who, in 1625, after taking into her care a deaf-mute orphan with prophetic inclinations, went on a decades long crusade, foretelling in dozens of pamphlets the coming of the end times and a period of retribution that would mirror the biblical Book of Daniel. The relational spark of the whole tale - she was 35 before she ever met the child, and was apparently transformed - always compelled me; the Lady’s life as an outlaw was no loner’s, but rich with encounters, friendships, interpersonal _ekstasis_ and the _lectio divina_ of her relationship with others’ words. Famously, she anagrammed out of a slightly distorted version of her name the injunction: REVEALE O DANIEL!
 
-![](https://mirror.xyz/exeunt.eth/jvQRFygngKb-GQ9SzubSl7jFoat6xU2bdNpO2U8w-yw)
+![](https://cdn.nationalarchives.gov.uk/blog/wp-content/uploads/2023/03/21134239/lady-eleanor-using-anagram-1536x742.jpg)
 
 You might be surprised - history is strange this way - that she had a real, historically documented penchant for prophecy, correctly and very publicly predicting the death of the Duke of Buckingham …and then her husband. By 1936 she was a widow and ex-prisoner, having been confined for smuggling her manuscripts across the border to England from Amsterdam. Apparently attempting to settle down, she moved in with a friend named Susan Walker in Lichfield. Even then, she couldn’t help but sow seeds of dissent. After a series of protests about the class and status-based seating arrangements at Lichfield Cathedral, on December 18 of that year she performed what the parish called “insufferable profanations”: dousing the Cathedral altar in tar and taking the bishops throne to declare herself ‘primate and [metropolitan](https://lichfieldlore.co.uk/2016/03/21/womens-writes/).’ She was quickly imprisoned. Seven years later, during the English Civil War, the Cathedral was set fire and nearly destroyed in a siege.
 
