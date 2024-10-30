@@ -1,6 +1,10 @@
 ---
 author: Exeunt
+date: 2022-10-01
 ---
+![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*dvDqphxKMvdsKkClLedOCw.jpeg)
+*Joos van Craesbeeck, The Temptation of Saint Anthony (detail).*
+
 _**The universe described by Everett’s Many Worlds Interpretation of QM is one profuse with realities, and beings through which those realities proliferate. The existential abundance MWI implies can be the philosophical ground for a post-extractive design ethics adequate to the problems of the twenty first century. Through Distributed Autonomous Technologies, we can build bioregional machines of life and difference production, where novelty and commonness are fused in a regenerative feedback loop.**_
 
 Cosmologist Max Tegmark poses [four levels](https://space.mit.edu/home/tegmark/crazy.html) of physically plausible configurations of the multiverse, I-IV. The levels stack, amplifying each other into ever deepening quantities of infinity. As it turns out, our attempts at dominating the world under the microscope of empirical inquiry has only made its vastness more great, its breadth of possibility ever wider. Imagine these universes of manifold voluptuousness, dizzy with exotic structures, alien chemistries and dead zones.

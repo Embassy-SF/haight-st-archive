@@ -1,5 +1,6 @@
 ---
 author: Exeunt
+date: 2024-10-29
 ---
 𝐖𝐞𝐢𝐫𝐝 𝐦𝐮𝐭𝐮𝐚𝐥𝐢𝐬𝐦 is a speculative economic framework that explores strategies of positive sum, reciprocal exchange with nonhuman agencies - weird sovereignties that may include natural or animal intelligences, distributed or swarm bodies, & cultural or intersubjective forms like memes and egregores. 
 

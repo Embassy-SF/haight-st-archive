@@ -1,11 +1,12 @@
 ---
 author: Exeunt
+date: 2024-03-25
 ---
 ![](https://images.mirror-media.xyz/publication-images/zcmT-YWMW3S-3BIQ9XNzi.png?height=555&width=1110)
 
 “A taste for the living concrete and for a plural universe.”
 
-- Antoine Faivre
+-Antoine Faivre
 
 1. I am sitting in cafe Kava Saia off of East Burnside in Portland, the Pacific Northwest, the Portland Basin, formerly inhabited by Chinookan-speaking tribes - Clackamas, Kathlamet, Multnomah, and Tualatin, whose art in the pre-Columbian period is noted by a Chinook Nation blog to have contained a prevalence of mirror imagery, skeletal or “x-ray” portrayals of human and animal forms and a preference for the numbers 3 and 5. The number 3 in Jung is said to signify surface, flatness - it is the second digit in the figure 137, the reciprocal of the fine structure constant (1/137). Wolfgang Pauli - physicist, author of the Pauli Exclusion Principle and lifelong correspondent with Jung - was obsessed by the number 137’s general persistence in the physical sciences, and it is the Pauli-Jung correspondence that I sit here, at Kava Saia, reading with my mug of Holy Basil and only partial interest.
     

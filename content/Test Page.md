@@ -1,1 +1,0 @@
-test internal link: [[index]]
