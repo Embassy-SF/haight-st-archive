@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Open Mutualism Guild
 ---
 
 Test homepage for the Open Mutualism Guild
