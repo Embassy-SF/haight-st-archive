@@ -1,0 +1,15 @@
+---
+author: Exeunt
+date: 2024-10-29
+---
+𝐖𝐞𝐢𝐫𝐝 𝐦𝐮𝐭𝐮𝐚𝐥𝐢𝐬𝐦 is a speculative economic framework that explores strategies of positive sum, reciprocal exchange with nonhuman agencies - weird sovereignties that may include natural or animal intelligences, distributed or swarm bodies, & cultural or intersubjective forms like memes and egregores. 
+
+While weird mutualism takes the "weird" in its name from Erik Davis's book [𝘏𝘪𝘨𝘩 𝘞𝘦𝘪𝘳𝘥𝘯𝘦𝘴𝘴](https://mitpress.mit.edu/9781907222870/high-weirdness/) and his broader explorations of the ontological modes of cultural undergrounds, it's directionally informed by an atmosphere of concepts of greater-than-human agency, including Jane Bennett's "[vibrant matter](https://www.paradigmtrilogy.com/assets/documents/issue-02/jane-banette--vibrant-matter.pdf)", Bruno Latour's [Actor-Network Theory](https://en.wikipedia.org/wiki/Actor–network_theory), Karen Barad's [agential realism](https://smartnightreadingroom.wordpress.com/wp-content/uploads/2013/05/meeting-the-universe-halfway.pdf), N Katherine Hayles' [posthuman media theories](https://dms484.wordpress.com/wp-content/uploads/2017/01/hayles-how-we-think.pdf), [Robin Wall Kimmerer](https://www.robinwallkimmerer.com/books) on traditional/ ecological knowledge, Anna Tsing on the [matsutake mushroom](https://press.princeton.edu/books/paperback/9780691220550/the-mushroom-at-the-end-of-the-world?srsltid=AfmBOorPAnpbloLRGMOOb_qN0FMooNqBlLwYVT9mBDgxZSNRu4BHZvzJ) and multispecies networks, Michael Levin's work on [multiscale intelligence & cognitive light cones](https://pmc.ncbi.nlm.nih.gov/articles/PMC6923654/), Sara Imari Walker's [challenges & elaborations of the definition of life](https://www.youtube.com/watch?v=BZiyt-tWieA), and the collaborative work of Deleuze & Guattari.
+
+Notable examples of weird 𝘮𝘶𝘵𝘶𝘢𝘭𝘪𝘴𝘮 - the extension of these notions into the sphere of exotic economics, where practical concepts of reciprocity take form, include: 
+- Work associated with Regen Foundation and Regen Network, most recently Will Szal on rivers as [Hyperbeings](https://medium.com/regen-network/hyperbeings-a6fc3c43ba1d) and Austin Wade Smith on [Undualing](https://mirror.xyz/austinwadesmith.eth/1wdm8BNkLJWnnzwshtYEmHYlHaXxRF3bLEt4y4-9OE8).
+- Barton Rhodes and Vie McCoys DeSci initiative [https://attractor.run](https://t.co/kZ0LEFrgLP) and the associated research on "[xenocognition](https://t.co/bftDNwcea6)"
+- The Sphere's [innovative methods](https://t.co/giZ8b5QSp4) for funding the performance arts, including theorizing the performance itself as an economic agent.
+- [terra0's]([https://terra0.org) prototypes for automated ecosystem resilience frameworks, grounded in speculative work on [sovereign ecologies](https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf).
+
+Naming is a creative act: weird mutualism as a framework is meant to be creatively descriptive of an ongoing and frankly ancient genre of economic research and design, with the hopes that coalitions and collaborations may be established around the intuition of 'weird reciprocity'. 
