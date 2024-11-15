@@ -1,6 +1,14 @@
 ---
 author: Exeunt
 date: 2024-03-25
+tags:
+  - cybernetics
+  - urban
+  - pluriverse
+  - autotheory
+  - portland
+  - localism
+  - knowledge-commons-protocol
 ---
 ![](https://images.mirror-media.xyz/publication-images/zcmT-YWMW3S-3BIQ9XNzi.png?height=555&width=1110)
 

@@ -1,6 +1,26 @@
 ---
 author: Exeunt
 date: 2024-10-29
+tags:
+  - weird-mutualism
+  - jane-bennett
+  - n-katherine-hayles
+  - bruno-latour
+  - karen-barad
+  - anna-tsing
+  - robin-wall-kimmerer
+  - michael-levin
+  - sara-imari-walker
+  - gilles-deleuze
+  - deleuze-and-guattari
+  - weird
+  - the-sphere
+  - will-szal
+  - terra0
+  - autonomism
+  - posthumanism
+  - actor-network-theory
+  - agential-realism
 ---
 **Weird Mutualism** is a speculative economic framework that explores strategies of positive sum, reciprocal exchange with nonhuman agencies - weird sovereignties that may include natural or animal intelligences, distributed or swarm bodies, and cultural or intersubjective forms like memes and egregores. 
 

@@ -1,6 +1,13 @@
 ---
 author: Exeunt
 date: 2023-07-04
+tags:
+  - freedom
+  - history
+  - england
+  - etymology
+  - pdxdao
+  - knowledge-commons-protocol
 ---
  ![](https://images.mirror-media.xyz/publication-images/uYylR1v9RkcRBNP4lQfPn.jpeg?height=1678&width=3355)
 

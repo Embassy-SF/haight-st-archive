@@ -1,3 +1,20 @@
+---
+author: Open Protocol Research Group
+date: 2024-08-13
+tags:
+  - city-repair
+  - mark-lakeman
+  - social-permaculture
+  - permaculture
+  - architecture
+  - urban-design
+  - portland
+  - localism
+  - open-protocols
+  - knowledge-commons-protocol
+  - extitutions
+---
+
 ### **Mark Lakeman** is the founder of City Repair, a social permaculture group in Portland Oregon active since the 90’s, and the architecture firm [Communitecture](https://www.communitecture.net/), which does accompanying work in ecological design and place-based community infrastructure. Being the instigator of several legendary regulatory coups in our city, Lakeman was a clear first choice for our interview series, which concerns autonomous, protocol-based strategies for building community infrastructure beyond institutions.
 
 ### While Lakeman agreed with many of our science fiction impulses about scaling the city’s underground capacities for self-organization and self-governance, his experience told him that these efforts need to be _guided_ - by both meaningfully placed-based grounding and the location of a genetic memory for community that makes this project as much one of recovering the past as it is building the future.

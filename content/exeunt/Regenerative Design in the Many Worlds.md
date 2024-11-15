@@ -1,6 +1,14 @@
 ---
 author: Exeunt
 date: 2022-10-01
+tags:
+  - physics
+  - hugh-everett
+  - max-tegmark
+  - sean-carroll
+  - many-worlds
+  - kevin-a-carson
+  - knowledge-commons-protocol
 ---
 ![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*dvDqphxKMvdsKkClLedOCw.jpeg)
 *Joos van Craesbeeck, The Temptation of Saint Anthony (detail).*

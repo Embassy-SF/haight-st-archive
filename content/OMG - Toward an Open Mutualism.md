@@ -1,5 +1,22 @@
 ---
 author: Exeunt, Clinamenic, Vengist, T W
+tags:
+  - mutualism
+  - weird
+  - weird-mutualism
+  - donna-haraway
+  - kevin-a-carson
+  - sara-horowitz
+  - hp-lovecraft
+  - erik-davis
+  - the-sphere
+  - brian-massumi
+  - knowledge-commons-protocol
+  - will-szal
+  - hyperbeings
+  - bogna-konior
+  - stanislaw-lem
+  - guild-guild
 ---
 “All of us must become more ontologically inventive and sensible.” - Donna Haraway
 
