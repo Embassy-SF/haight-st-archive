@@ -3,7 +3,6 @@ author: Exeunt, Clinamenic, Vengist, T W
 ---
 “All of us must become more ontologically inventive and sensible.” - Donna Haraway
 
-
 ## Tl;Dr
 
 This document proposes a guild model for institutionally unaffiliated humanities and social science research into mutualist organizational technology. A guild implies that members retain a high level of autonomy over their work while pooling legitimacy in an associative capacity in the hopes of developing a mutual sustainability in their efforts. Though the authors come from a context heavily informed by the DAO form, a guild implies a much lower collaborative overhead than what is typically associated with a DAO.
