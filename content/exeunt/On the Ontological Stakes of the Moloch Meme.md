@@ -26,9 +26,7 @@ The main conceit of "Meditations on Moloch", despite its biblical rhetoric, is t
 
 The fact that the meme has caught wind and come to influence a generation of builders is no surprise. It was a powerful expression of optimism and humanism, a measured dose of reason fresh off of two waves of dehumanization (against a constructed Islamic other and, in the wake of the financial crisis, the obscenely wealthy, a Manichean impulse between which we all seemed to be pinned). To invoke it is to imply that we can solve many or most of these problems with a can-do design sensibility and a game theoretic realism about the desires and needs of humans. The Ethereum ecosystem in particular is animated by this attitude: partisan taglines are avoided, hot rhetoric and philosophies of blame are bypassed in favor of a modest tone of coordination progress, a tone which is intentionally humble about its civilizational ambitions. In a political landscape often characterized by virtue signaling hubris and overwrought politics, it's honestly pretty great. 
 
-```
-
-```
+---
 
 Moloch appears (I believe) only once in the Old Testament, Leviticus 18:21, as an archetypal false idol, God's chosen example of misled sacrifice. His appearance is a laying down of the law, a signal, once and for all, that the age of many Gods is over: *And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the Lord*. When Allen Ginsberg revives the archetype, it's with an anti-authoritarian, and, in particular, an anti-square edge:
 
@@ -54,9 +52,8 @@ Another way to put this argument is to say that *the game of white supremacy can
 *How to dwell on the structures of pervasiveness, terror, and gratuitousness themselves*. How do the abstract assumptions that underwrite the civil state violently embody themselves in the social world? How does what is concealed in the beginnings of rational discourse reveal itself in the gratuitousness of that discourse's "enforcement" (we might think of the wars in Iraq and Afghanistan as other types of collateral damage in the civil state's effort to convince itself of its own coherence). What are the characteristics of that ground that hides itself in any rational calculus of progress? 
 
 As I said before, I believe that the lens of coordination maximalism is a valuable one to hold, but Jared Sexton's provocation above points us in a different direction: How many of our contemporary problems are sourced from this pre-rational well of ontological thrift and supremacy? This kind of meta-analysis takes us to a place where our problems are not, as Alexander suggests, a matter of erecting an objective arbiter that can break us out of our multipolar traps, by saying I AM. Coincidental with the biblical myth, perhaps we need exactly to look to the subject: the way we stage our individuality, the violent and myopic lineage that has sometimes carried its mantle, and the ontological stakes that are withheld when we think of the self as a foregone conclusion rather than a negotiation, a performance, an art - a technē.
-```
 
-```
+---
 
 In a recent [talk](https://youtu.be/27zHyw_oHSI?t=1812), Ben Goertzel, cognitive scientist and source of the phrase "Artificial General Intelligence" suggested that fears about the dangers of AI may be rooted in a reward maximization model of intelligence (perhaps one natural to its progenitor's worldview, here, Eliezer Yudkowsky and Sam Altman). As an alternative to this model Goertzel suggests his friend and colleague David Weinbaum's proposal, in a [2015 paper](https://arxiv.org/pdf/1505.06366.pdf) with Viktoras Veitas, of a model they call "Open-Ended Intelligence":
 
@@ -69,12 +66,10 @@ Narrow AI may be characterized by goal-oriented reward maximization, but AGI mea
 
 Their solution to the enigma of intelligence has an effect that is both democratizing and dismissive of the mythos of possession and metaphysical isolation, a move they pose as an antidote to the "serious limitations that are traced back to the ontological roots of the concept of intelligence." Rather than a divine right which is owned by man - the inheritance of an I AM that would banish Moloch - intelligence is framed as enacted process of openness and experimentation with the very faculty and limits of self, an *embodied pluralism*. (For the Jordan Peterson fans in the room, I want to underline how this idea has left the realm of performative postmodernism and become an element of applied scientific epistemology- not a relativism but a *practical* pluralism, under the purview of engineers and cognitive scientists, which requires "giving up the a priori givens in our thinking, namely, the agent, the environment, the distinction between them, the implied observations and actions that are made possible by such a distinction...").
 
-
-
 The premise of the Moloch meme and the closely coupled one of "it's all coordination" is that we might fight multipolar traps by constructing a credibly neutral agreement between self-sovereign agents, maximizing the freedom of those agents in the same breath as we weave together those networks of coordination.[7] But it's the artificial intelligences that are often associated with the Moloch label - the modern corporation, the administrative bureaucracy, the global arms race - that most mirror the humanist vision for self-sovereignty while missing the emergent processes in which they are embedded. It's as if the supremacist fantasy of total sovereignty were applied too literally by these nonhuman entities who, like a trope from The Office, act out an endless tragicomedy of *missing the point*. And what is the point? That the term is only meaningful in its process, immersed in what Weinbaum and Veitas call "a field of individuation," the panorama of "ulterior individuations" that represent open pathways of recursive self-transcendence - the outer dark to the sovereign's claim, the speculative open ended objects which present to the Enlightened I as "[darkness](http://timothyquigley.net/vcs/berger-caravaggio.pdf), death, things which are not."
-```
 
-```
+---
+
 
 Web3 is as much a product of game theory as it is of the cybernetic tradition and a radical critical framework sprung from the ontological shock of fucking with computers. It has successfully integrated a critical anthropology of money that may genuinely succeed in disarming the financial system, a de-politicized vision of the commons that has our most right libertarians comfortable citing Elinor Ostrom, and a free vision of information as democracy that questions core mainstream assumptions around authorship and intellectual possession. If we are to take on coordination problems at scale, we need to recognize the beast that is behind door number four - a kind of "Cartesian theater," with irrational and fundamentally violent assumptions about the nature of being and the role of the human in it. 
 
@@ -89,7 +84,7 @@ At this moment, in cities, plains and rainforests, changeless machines of blind 
 
 
 
-**Notes**
+## Notes
 
 [1] By this I mean a vision of economy situated both in a [true cost accounting ](https://tca2f.org) and an [anthropology of money](https://twitter.com/drumm_colin/status/1468779685916012546?s=20) that tells us  wealth accrual as an end in itself is incoherent, its propagation a form of anti-realism. 
 
