@@ -1,3 +1,19 @@
+---
+author: Exeunt
+date: 2024-11-17
+tags:
+  - ethereum
+  - speculative-fiction
+  - cryptoeconomics
+  - hyperbeings
+  - weird-mutualism
+  - underground
+  - protocol-underground
+  - hannah-weiner
+  - michael-levin
+  - middle-ages
+---
+
 > “It is as if we were inside a giant octopus.” – Timothy Morton
 
 *These writings were my contribution to an attempted speculative vision of the state of Ethereum and the web3 space circa 2068, initiated by* The Open Machine *(still extant at [theopenmachine.net](https://theopenmachine.net) .* 
