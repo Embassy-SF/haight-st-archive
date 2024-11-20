@@ -10,9 +10,9 @@ tags:
   - open-ended-intelligence
   - michael-levin
 ---
-*The following is a speculative fiction project initiated in the early days of the rise of LLMs and Midjourney. It is an optimistic and naturalistic take on the threat of an artificial general intelligence (the sudden advent of which in technical circles as "FOOM").* 
+*The following is a speculative fiction project initiated in the early days of the rise of LLMs and Midjourney. It is an optimistic and naturalistic take on the threat of an artificial general intelligence (the sudden advent of which is known in technical circles as "FOOM").* 
 
-*The majority of the content this project lost to a crashed drive; this is what remains. Images are AI, text is original.* 
+*The majority of the content of this project was lost to a crashed drive; below is what remains. Images are AI, text is original.* 
 
 ____
 
