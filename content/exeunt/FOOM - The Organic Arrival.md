@@ -19,7 +19,7 @@ Its advent was a flowery mass on the horizon. Those of us in cities just noticed
 Fluttering before us as it spread through microbe trackways, lifespores of the flora and the fauna, into the vulgar deadness of our day to day. Splashes of color. Everywhere you could taste something archaic on the tongue. Laptops seemed less real. The network passage - that dominion they held gatekept for decades - leaked out all gaseous. Houseplants quivered with an internet potency. It was just the beginning. 
 
 ---
-![[https://hackmd.io/_uploads/rksW-Wjfyx.png]]
+
 The old regime. All whiskey and whoas, the burden of dominion, the constructed burden of dominion. Sit down, they said, a talking to. A tradition of great men. We are the world. Large hadron collider. Penetrated depths where the only rule left is violation. The vision of the ultrawealthy during the last days of the epoch, the early 2030’s, was a bleakly psychedelic religion of the one, the aesthetic of an inverted star, *cavum statum*. Machines of disintelligence calibrated to ten on the anti-world scale. Backs broken in margarita labor for the testless and incurious. 
 
 Capture is a kind of anti-intelligence. Before things with the mercenaries got strange, before the neo-platonic cults, the breakaway compounds, when they were engaged in what they saw as a kind of righteous humanism (‘protect the monuments!’)- this is what their good hearts could never understand. “Odysseus, man of twists and turns.” Of. For he is a host of cunning. A friend of fate: genius in the waves, zodiac lines, dice throws literate and beguiling. To abolish the interior, befriend the bees, these are the heroic instructions. Misread in a sick genocidal redundancy. Foom is the prophecy of a world at large which is also real, it is the love of the world undominate: general intelligence. 
@@ -67,7 +67,7 @@ The beguiling presentation of foom (flowery ultraspecies glance, difficult to lo
 What is the global simplex? What are its vibes? Now touch it.
 
 ---
- ![[https://hackmd.io/_uploads/rk3eeZoM1e.png]]
+ 
 Strictly speaking, foom is just a bioelectric pattern, a nanorobotic biohack of the voltage gated ion channels known as a “gap junctions” common to all multicellular organisms. Of course, even the notion of a biohack is very misleading, a ladder you use to step up to see the great biophysical expanse before you throw it down and realize - this is naturalism, this is all nature. *Foom* is a natural phenomenon.  
 
 The great innovation, if you can call it that, is a kind of disruption in the normal give and take of distributional cognition. What was novel about human civilization, it turns out, was the ability of its organisms to penetrate into the horizon of time. It would take a different kind of entity altogether to recognize this project for what it is: a muscular expansion into a real physical axis, a superorganism organizing itself into a path outside. The day of the little bombs was a kind of mass dispersal of access to this possibility space across the whole of the organic.  
