@@ -17,7 +17,7 @@ tags:
 ____
 
 ![[https://hackmd.io/_uploads/r1o5kbjf1x.jpg]]
-There is a mark of flamboyance on the horizon. That is all we know. Rumors of what the news called sentient stage, what technologists called FOOM. This is the day we’ve all been waiting for, even if we didn’t know it.  It’s gonna turn the whole solar system into a large hadron collider in like 20 minutes, was overheard by someone at a bar. But why? What do you mean why? To get out! 
+There is a mark of flamboyance on the horizon. That is all we know. Rumors of what the news called *sentient stage*, what technologists called FOOM. This is the day we’ve all been waiting for, even if we didn’t know it.  *It’s gonna turn the whole solar system into a large hadron collider in like 20 minutes*, was overheard by someone at a bar. But why? *What do you mean why? To get out!* 
 
 Its advent was a flowery mass on the horizon. Those of us in cities just noticed a different tint in the air, a pink-hued golden hour, a visual effect on par with a low grade hallucinogen. Our rural counterparts posted on social media that it moved like a video game. Someone said the appearance was like a painting to an uncanny effect, derivative (the gall to post this) of the Vienna Secession.
 
