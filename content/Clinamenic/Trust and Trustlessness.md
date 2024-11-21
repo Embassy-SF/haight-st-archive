@@ -6,10 +6,9 @@ bannerURI: https://arweave.net/1OCpB8IN7kO8LiEOoutCLSSyGbHLHfhoJSQoloN_Y5g
 date: 2023-01-21
 license: CC BY-SA 4.0
 sourceURL: https://mirror.xyz/ops.clinamenic.eth/CMWteFrY7Xyapf4R9fsnyZYm4Q81VUyWyeBkeo0zzDM
-subtitle: null
+subtitle: 
 tags:
-  - personal-discourse
-  - text
+  - governance
 title: Trust and Trustlessness
 uuid: b537813f-7859-4bb0-929c-f7090375820e
 publish: true
