@@ -1,6 +1,6 @@
 ---
 author: Exeunt
-date: 2024-11-17
+date: 2023-11-17
 tags:
   - ethereum
   - speculative-fiction
