@@ -7,8 +7,9 @@ date: 2024-08-04
 license: CC BY-SA 4.0
 subtitle: Applying daoist and sociocratic principles to sensemaking and governance.
 tags:
-  - personal-discourse
-  - text
+  - "#governance"
+  - "#daoism"
+  - "#sociocracy"
 title: Wu Gwei, or Going with the Flow of Governance
 uuid: 37c66fd7-dc8a-4baa-a266-ec28b3a23983
 publish: true

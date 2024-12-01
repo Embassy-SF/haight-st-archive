@@ -6,9 +6,10 @@ date: 2024-05-23
 license: CC BY-SA 4.0
 subtitle: Considerations to inform a more cogent economic philosophy.
 tags:
-  - personal-discourse
-  - text
-  - misc/postcapitalism
+  - post-capitalism
+  - economics
+  - socialism
+  - liberalism
 title: Prospectus of the Reconciliation of Individual Liberty and Collective Welfare
 uuid: 2c052cbc-a0fe-4585-86d5-7d6477db9eac
 publish: true

@@ -9,7 +9,7 @@ license: CC BY-SA 4.0
 publish: true
 subtitle: Considerations on community growth and lightweight administration.
 tags:
-  - personal-discourse/log
+  - governance
 title: Notes on Methodology for Communities of Practice
 uuid: 4df08591-dc72-43d1-9236-853f6c43a3f4
 ---

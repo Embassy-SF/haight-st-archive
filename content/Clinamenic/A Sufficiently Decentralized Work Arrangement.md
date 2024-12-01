@@ -6,10 +6,10 @@ bannerURI: https://arweave.net/EOOrxyrx519Kaz2R5ULq_5IwX_AdK51rM4zK_OFkOqg
 date: 2023-01-21
 license: CC BY-SA 4.0
 sourceURL: https://mirror.xyz/ops.clinamenic.eth/58IFNhSUmneWrH8Cr_zg5U09U2muI2FxQ-HtuCCv9Fw
-subtitle: null
+subtitle: 
 tags:
-  - personal-discourse
-  - text
+  - governance
+  - decentralization
 title: A Sufficiently Decentralized Work Arrangement
 uuid: 6a9687f8-9470-4497-ac00-813b164517bf
 publish: true
