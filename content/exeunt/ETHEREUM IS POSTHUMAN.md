@@ -52,9 +52,7 @@ Within the administrative frame, these anomalies are always adversaries - crises
 Market conditions, partisan politics, all sorts of tribalism and reductionism can't obscure the issue: at a historical stage when distrust of institutions is the fundamental aspect of the zeitgest, Ethereum is a broad and substantive alternative to the opacity, excess centralization and myopia that animates the institutional regimes. And more relevant to the argument here, the biomimetic, open-ended, permissionless and spontaneous development of this network is robustly adequate to the posthuman challenge. The influx of alien adversaries that chipped away at and seem likely to eventually destroy the legacy institutions are the exact agencies that animate and strengthen the Ethereum thesis. 
 
 This is posthuman economic warfare. To their cathedral, we not only have a bazaar, but a whole pagan countryside, a valley of lichen and earthworms, ravens and red deer, and weirder agencies still: alliances and multi-scale articulations that relate in webs of computational and protocognitive presence. Assemblages. Ethereum is a carnyx, alerting the multitude to an instrument of mutual legibility, pluralistic infrastructure for minimalistic networks of formal economic and governmental coherence without reference to world enclosing standard. Out of an era of premises of ownership of that which cannot be owned, Ethereum offers to the many worlds a permissive abundance of network wealth.
-![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Figures_with_horns_on_the_Gundestrup_Cauldron.jpg)
-
-_Alert the hillside! Ethereum is pluriversal coordination._
+![[(https://upload.wikimedia.org/wikipedia/commons/0/0a/Figures_with_horns_on_the_Gundestrup_Cauldron.jpg) "Alert the hillside! Ethereum is pluriversal coordination."]]
 
 In this moment when both the global and civilizational narratives are [up for grabs](https://x.com/0xidanlevin/status/1860490159323521376?s=46&t=pL8JEAGv2UTP16nVi8QnmQ) and (on a smaller scale) the question of an effective marketing modality for Ethereum is still an open question, a syntax for a posthuman Ethereum has the ability to answer both calls. In an effort to catalyze this, I want to conclude this essay with **three potential aesthetic and marketing paradigms for a posthuman Ethereum**.
 
@@ -87,6 +85,7 @@ What happens when we are stripped of the sheltered facade of naive realism provi
 Undergrounds, like ethereum, demand high agency, just as history demands maturity. The old States and the new Silicon Valley both pose a historical subject with sovereign dominion over the historical stage. In the ashes of the the ontological shock of the great cybernetic insights, the burning out of the physical mechanism of Sovereignty and the trauma of the posthuman turn, an infrastructure is ascendant for those who want to be done with the childish and insecure mores of the magical cult of the human. To those mature souls willing to engage the material plane on its own terms, who are willing to inhabit history with eyes wide open, a community of Others await. Let's coordinate. 
 
 ![[https://github.com/Clinamenic/Open-Mutualism-Guild/blob/v4/0_0%20copy.png?raw=true]]
+
 ----
 
 In the hopes of catalyzing some engagement with the posthuman Ethereum concept, a jokerace has been established. If you'd like to contribute a design or marketing concept, there is some Eth at stake. If you'd like to raise the stakes, hit me up! 
