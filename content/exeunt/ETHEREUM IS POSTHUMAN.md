@@ -2,7 +2,7 @@
 date: 2024-11-30
 author: Exeunt
 ---
-# Notes for a Marketing Aesthetic
+## Notes for a Marketing Aesthetic
 
 *“The very nature of materiality is an entanglement. Matter itself is always already open to, or rather entangled with, the "Other." The intra-actively emergent "parts" of phenomena are coconstituted. Not only subjects but also objects are permeated through and through with their entangled kin; the other is not just in one's skin, but in one's bones, in one's belly, in one's heart, in one's nucleus, in one's past and future. This is as true for elec/trons as it is for brittlestars as it is for the differentially constituted human . . ."*
 
@@ -68,14 +68,16 @@ In this moment when both the global and civilizational narratives are [up for gr
 
 ---
 
-### Make Ethereum Underground
+## Make Ethereum Underground
+
 Underground spaces are full of messy contingency and corporeality. The walls sweat, slightly molded, while graffiti of half discernible and sigil-like patterns fill every available surface. Centralized prerogatives are shunned and what fills their place are simple, minimalistic coordination protocols through which improvisation and difference can unfold. Scaling happens in aggressively horizontal pattern, for vertical scaling opens the door to complacent publics, ignorant to self-rule and the high agency demands of extitutional culture.
 
 In our [two](https://www.openmutualism.xyz/exeunt/Sketches-Toward-a-Theory-of-the-Protocol-Underground) [essays](https://www.openmutualism.xyz/exeunt/Undercapital) on protocol undergrounds we identified three rough characteristics of these types of spaces: **high agency**, in opposition to the structurally embedded expectations of complacency and passive consumerism typical of institutional settings; **participatory aesthetic**, following the former but with an emphasis on inclusive and permissionless co-creation of the environment itself; and **ontological creativity**, or the invention and creative discovery of forces of agency and cognitive presence through aesthetic-material practice.
 
 It's not a coincidence that these underground values mirror core structural and cultural elements of the Ethereum thesis - they are self-evident features of extitutional life. As our work has also noted, the underground expresses these characteristics by way of exotic pseudo-institutions (OPRG calls them *extitutions*) that are creatively incoherent and strategically oppositional to the dominant regimes of standardization that are anathema to them. They represent a major horizon of implementation for Ethereum. The aesthetic horizon is equally as rich.
 
-### Make Ethereum Interspecies
+## Make Ethereum Interspecies
+
 The problem of interspecies coordination, specifically techniques of governance and ethical economic exchange with creatures in the more-than-human world, is one of totally vertiginous scale and variation. Mammals make up less than one percent of the animal kingdom. Many of these species inhabit or interact with each other as hosts or symbiotic partners, and many are embedded in rivalrous relationships. The rights based model of species protection may be useful to the extent that it serves as a last resort against institutional ecocide, but it will not be enough to deal with the complexities of ecosystems as we interact with them as inhabitants of the same extitutional plane. The future of zoological and ecological ethics is networked.
 
 I will refrain from speculating on this design horizon - I'm hoping to remedy my ignorance on the topic with the new [Interspecies Mutualism Reading Circle](https://www.openmutualism.xyz/interspecies-mutualism-rc/interspecies-mutualism-reading-circle-canon) - but it is at least clear that the speculative horizon of possible Ethereum use cases is a carnival of zoological and ecological agency, animated by the intelligence unleashed by the absence of the self-fulfilling institutional prophecy of nature as metaphysical dead-matter. The *presence* afforded to the world of creatures by governmental and economic attention will have real effects, and the fundamental agnosticism of identity and computational input the EVM provides can meet those open problems.
@@ -84,14 +86,15 @@ I will refrain from speculating on this design horizon - I'm hoping to remedy my
 
 ![[https://github.com/Clinamenic/Open-Mutualism-Guild/blob/v4/here-comes-everybody.jpeg?raw=true]]
 
-### Make Ethereum Weird
+## Make Ethereum Weird
+
 Students of the Cthulhu mythos or the Southern Reach trilogy are aware of the stakes of the weird - hyper-creatures that shatter our humanism in their very presence, to the extent that they cease to correspond to anything within the nature-culture binary or even the general environment of naive realism. If cultural undergrounds carry out speculative economic and aesthetic exchanges with these nonhuman but not quite zoological "presences," Ethereum has the capacity to formalize engagement with them on a global infrastructural scale. This is where aesthetics becomes economy and governance, where the edges of objective reality are interrogated by the ontologically generative power of networks. (This horizon can't be mentioned without reference to Karen Barad's [discursive-material apparatuses](https://www.are.na/block/6634683) and Jane Bennett's [vibrant matter](https://www.paradigmtrilogy.com/assets/documents/issue-02/jane-banette--vibrant-matter.pdf)).
 
 As much contempt as some in this ecosystem may have for post-stucturalism, any technologist interested in the cybernetic revolutions mentioned above, or any in a number of [physics](https://www.youtube.com/watch?v=wwhTfyX9J34) or [biology](https://www.youtube.com/watch?v=p3lsYlod5OU)-based reinterrogations of cognition and agency, has to admit that there is something strange going on when it comes to the morphogenetic properties of matter. It wouldn't be out of  an ignorance of empirical reason that we would explore the literal reality of agential egregores, living thoughts, neo-animist gods and any other alien creatures that may be hiding behind the veil of language and institutional-discursive discipline. If DMT, LSD and the arts are great stages to conceive and experiment with these creatures, Ethereum is the stage where they will be, if at all possible, realized in their productivity as networked agents. How do we illustrate this potential? 
 
 ---
 
-What happens when we are stripped of the sheltered facade of naive realism provided by institutions? What when we are left in the strange space of negotiation between the empirical and relational real? There, on the one end time is relative, the ground of reality is shifting before our feet, its articulation in any single form a mere descriptive fiction that exhausts itself at the planck scale. On the other, personalities can hold whole territories of soft dominion, the whims of loved ones can feel larger than life, a friend group can be like a tent of christmas warmth while neighbors can seem cold and zombie like.  Ethereum offers, finally beyond the illusory, narcotic treatment of the institutional reals, a means of crossing the gap of non-knowledge with a non-presumptive hand. Minimum viable consensus, stripped of cultural compulsions or agreement beyond a deterministic computational ground. 
+What happens when we are stripped of the sheltered facade of naive realism provided by institutions? What when we are left in the strange space of negotiation between the empirical and relational real? There, on the one end time is relative, the ground of reality is shifting before our feet, its articulation in any single form a mere descriptive fiction that exhausts itself at the planck scale. On the other, ideologies can hold whole territories of world-enclosing dominion, the whims of loved ones can feel larger than life, a friend group can be like a tent of christmas warmth while neighbors can seem cold and zombie like.  Ethereum offers, finally beyond the illusory, narcotic treatment of the institutional reals, a means of crossing the gap of non-knowledge with a non-presumptive hand. Minimum viable consensus, stripped of cultural compulsions or agreement beyond a deterministic computational ground. 
 
 Undergrounds, like Ethereum, demand high agency, just as history demands maturity. The old States and the new Silicon Valley both pose a historical subject with sovereign dominion over the historical stage. In the ashes of the the ontological shock of the great empirical insights, the burning out of the physical mechanism of Sovereignty and the trauma of the posthuman turn, an infrastructure is ascendant for those who want to be done with the childish and insecure mores of the magical cult of the human. To those mature souls willing to engage the material plane on its own terms, who are willing to inhabit history with eyes wide open, a community of Others await.
 
