@@ -163,9 +163,9 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
 
   // we virtualize the simulation and use pixi to actually render it
   const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
-    .force("charge", forceManyBody().strength(-100 * repelForce))
-    .force("center", forceCenter().strength(centerForce))
-    .force("link", forceLink(graphData.links).distance(linkDistance))
+    .force("charge", forceManyBody().strength(-2000 * repelForce))
+    .force("center", forceCenter().strength(3 * centerForce))
+    .force("link", forceLink(graphData.links).distance(linkDistance * 1))
     .force("collide", forceCollide<NodeData>((n) => nodeRadius(n)).iterations(3))
 
   const width = graph.offsetWidth
@@ -193,7 +193,13 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   // calculate color
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
-    if (isCurrent) {
+    
+    // Check for specific tags
+    if (d.tags.includes("IMRC/resource")) {
+      return "#ff0000" // red
+    } else if (d.tags.includes("IMRC/note")) {
+      return "#0000ff" // blue
+    } else if (isCurrent) {
       return computedStyleMap["--secondary"]
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
@@ -505,7 +511,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
 
           // zoom adjusts opacity of labels too
           const scale = transform.k * opacityScale
-          let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
+          let scaleOpacity = Math.max((scale - 2) / 3.75, 0)
           const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
 
           for (const label of labelsContainer.children) {
