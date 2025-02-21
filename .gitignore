@@ -4,8 +4,16 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
+
+#Ignore obsidian folder (So that users can have their own obsidian vault configuration)
+.obsidian/
+
+#Ignore specstory folder (Cursor chat export files, using Cursor extention Specstory)
+.specstory/
+
+#Ignore cursor folder (Cursor workspace files)
+.cursor/
