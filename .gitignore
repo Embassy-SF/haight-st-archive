@@ -17,3 +17,5 @@ replit.nix
 
 #Ignore cursor folder (Cursor workspace files)
 .cursor/
+
+archive-to-do.md
