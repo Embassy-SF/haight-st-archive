@@ -19,3 +19,8 @@ replit.nix
 .cursor/
 
 archive-to-do.md
+
+wallet.json
+manifest.json
+
+.venv/
