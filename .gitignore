@@ -17,3 +17,10 @@ replit.nix
 
 #Ignore cursor folder (Cursor workspace files)
 .cursor/
+
+archive-to-do.md
+
+wallet.json
+manifest.json
+
+.venv/
