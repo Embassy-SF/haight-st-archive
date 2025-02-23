@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { DashboardTiles } from "./quartz/plugins/transformers/dashboardTiles"
 
 /**
  * Quartz 4.0 Configuration
@@ -72,6 +73,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      DashboardTiles(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

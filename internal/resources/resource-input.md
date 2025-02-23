@@ -37,3 +37,7 @@ https://regenerativeagriculturefoundation.org/about/our-leadership/
 https://freakscene.us/
 https://inteltechniques.com/book7.html
 https://www.youtube.com/watch?v=0M-rEmx36eI&pp=ygUgY29uc2Vuc3lzIGh5cGVybGluayBrZXZpbiBvd29ja2k%3D
+https://www.youtube.com/results?search_query=consensys+hyperlink+kevin+owocki
+https://www.librarything.com/work/15866607/reviews/124776194
+https://warwick.ac.uk/fac/arts/history/research/centres/blackstudies/venus_in_two_acts.pdf
+https://carolsanford.com/indirect-work/
