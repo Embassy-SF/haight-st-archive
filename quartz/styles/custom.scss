@@ -1,3 +1,81 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// for automated dashboard tile grid
+
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+    padding: 1rem;
+}
+
+.project-tile {
+    position: relative;
+    aspect-ratio: 3/2;
+    overflow: hidden;
+    border-radius: 8px;
+    transition: transform 0.2s ease-in-out;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.project-tile:hover {
+    transform: translateY(-4px);
+}
+
+.project-tile a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: inherit;
+}
+
+.project-tile-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: #2c3e50;  /* Fallback color */
+}
+
+.project-tile-title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0.5rem;
+    font-weight: 200;
+    background: rgba(194, 112, 31, 0.55);
+    color: white;
+    font-size: clamp(0.8rem, 1.5vw, 1.1rem);
+    font-weight: 500;
+    transition: opacity 0.2s ease-in-out;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.9);
+}
+
+.project-tile-description {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 1rem;
+    background: rgba(194, 112, 31, 0.85);
+    color: white;
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+    display: flex;
+    font-size: 0.9rem;
+    overflow-y: scroll;
+}
+
+.project-tile:hover .project-tile-description {
+    opacity: 1;
+}
+
+.project-tile:hover .project-tile-title {
+    opacity: 0;
+}
