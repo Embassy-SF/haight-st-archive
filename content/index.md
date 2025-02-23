@@ -27,6 +27,12 @@ This site compiles documentation from the General Forum on Ethereum Local series
 
 ---
 
-## Blockchain Education Resources
+## External Resources
 
 - [[Blockchain 101 Q&As]]
+
+<div class="dashboard-tiles">
+  <div class="project-tile" data-entry-id="00011"></div>
+  <div class="project-tile" data-entry-id="00015"></div>
+  <div class="project-tile" data-entry-id="00016"></div>
+</div>

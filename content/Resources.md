@@ -2,8 +2,6 @@
 title: Resources
 ---
 
-testing
-
 <div class="dashboard-tiles">
   <div class="project-tile" data-entry-id="00001"></div>
   <div class="project-tile" data-entry-id="00002"></div>
@@ -39,5 +37,4 @@ testing
   <div class="project-tile" data-entry-id="00032"></div>
   <div class="project-tile" data-entry-id="00033"></div>
   <div class="project-tile" data-entry-id="00034"></div>
-  <div class="project-tile" data-entry-id="00035"></div>
 </div>
