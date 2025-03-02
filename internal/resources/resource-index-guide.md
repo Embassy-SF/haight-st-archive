@@ -13,29 +13,37 @@ The resource indexing system allows for dynamic display of curated resources acr
    - Stores entries in `dashboard.json`
    - Preserves existing entries and tags
    - Only processes new URLs not already in the dashboard
+   - Assigns unique 5-digit IDs (e.g., "00001") to each entry
 
 2. **Dashboard Storage** (`dashboard.json`)
 
    - Central storage for all resource metadata
    - Each entry contains:
-     - `entryID`: Unique identifier
+     - `entryID`: Unique 5-digit identifier (e.g., "00001")
      - `url`: Resource URL
      - `title`: Resource title
      - `description`: Resource description
-     - `banner`: Banner image URL
-     - `tags`: Array of freeform tags
+     - `banner`: Banner image URL (or null)
      - `status`: Resource status
+     - `tags`: Array of freeform tags
 
-3. **Dynamic Display** (`resource-tiles.js`)
-   - Monitors `dashboard.json` for updates
-   - Automatically updates tile elements across the site
-   - Updates every 30 seconds
+3. **Dynamic Display** (`dashboardTiles.ts` transformer)
+   - Transforms tile placeholders into full HTML during site build
+   - Supports both standalone tiles and tile grids
+   - Automatically styles tiles with CSS grid layout
+   - Handles hover effects and responsive design
 
 ## Usage
 
 ### Adding New Resources
 
-1. Add URLs to `resource-input.md`, one per line
+1. Add URLs to `resource-input.md`, one per line:
+
+   ```
+   https://example.com/resource1
+   https://example.com/resource2
+   ```
+
 2. Run the URL processor:
    ```bash
    python3 url_processor.py
@@ -43,38 +51,100 @@ The resource indexing system allows for dynamic display of curated resources acr
 
 ### Displaying Resources
 
-To display a resource tile in any markdown file:
+To display resource tiles in any markdown file, you have two options:
 
-```html
-<div class="project-tile" data-entry-id="00001"></div>
-```
+1. **Single Tile**:
 
-Replace `00001` with the desired entry ID from `dashboard.json`.
+   ```html
+   <div class="project-tile" data-entry-id="00001"></div>
+   ```
 
-### Tagging Resources
+2. **Grid of Tiles**:
+   ```html
+   <div class="dashboard-tiles">
+     <div class="project-tile" data-entry-id="00001"></div>
+     <div class="project-tile" data-entry-id="00002"></div>
+     <div class="project-tile" data-entry-id="00003"></div>
+   </div>
+   ```
 
-Tags are managed manually in `dashboard.json`. Each resource can have multiple freeform tags in its `tags` array.
+The transformer will automatically:
 
-### Styling
+- Find these placeholders in any markdown file
+- Look up the corresponding entries in dashboard.json
+- Replace the placeholders with full HTML including title, description, and banner image
 
-Resource tiles are styled by `custom.scss` with:
+### Tile Styling
+
+Tiles are styled using CSS with:
 
 - Responsive grid layout
-- Hover effects
-- Banner images
-- Title and description overlays
+- Hover effects showing description
+- Banner images with fallback colors
+- Title overlays
+- Smooth transitions
 
 ## File Locations
 
 - `/internal/resources/`
+
   - `resource-input.md` - Input URLs
   - `dashboard.json` - Resource metadata
   - `url_processor.py` - URL processing script
-  - `static/js/resource-tiles.js` - Dynamic update script
-- `/quartz/styles/custom.scss` - Tile styling
+  - `resource-index-guide.md` - This documentation
+
+- `/quartz/plugins/transformers/`
+
+  - `dashboardTiles.ts` - Transformer plugin
+
+- `/quartz/styles/`
+  - `custom.scss` - Tile styling
+
+## Technical Details
+
+### URL Processing
+
+The URL processor:
+
+1. Reads URLs from resource-input.md
+2. For each new URL:
+   - Fetches the webpage
+   - Extracts metadata (title, description, banner)
+   - Generates a unique ID
+   - Adds entry to dashboard.json
+
+### Transformer Plugin
+
+The transformer:
+
+1. Loads dashboard.json at build time
+2. Finds tile placeholders in markdown files
+3. Looks up entries by ID
+4. Generates HTML for each tile
+5. Preserves grid structure when multiple tiles are used
+
+### CSS Structure
+
+The styling uses:
+
+```scss
+.dashboard-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.project-tile {
+  position: relative;
+  aspect-ratio: 3/2;
+  // ... hover effects and transitions
+}
+```
 
 ## Development Notes
 
-- The system is designed to be non-destructive - existing entries and tags are preserved
+- The system is non-destructive - existing entries and tags are preserved
 - Resource tiles can be placed anywhere in the digital garden
-- Updates are automatic - no need to rebuild pages when dashboard changes
+- The transformer runs at build time, ensuring fast page loads
+- CSS is optimized for responsive layouts
+- Hover effects provide a clean way to show additional information
