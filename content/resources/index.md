@@ -2,6 +2,45 @@
 title: Resources
 ---
 
+Explore our curated collection of resources to help you learn about, implement, and advocate for Ethereum Localism in your community.
+
+## Tools & Templates
+
+- **DAO Formation Guide** - Step-by-step instructions for setting up a simple community DAO
+- **Community Token Design Kit** - Templates for creating local tokens with meaningful utility
+- **Decision-Making Frameworks** - Models for inclusive governance in digital-physical communities
+- **Project Canvas** - A planning tool for Ethereum Localism initiatives
+
+## Educational Materials
+
+- **Introduction to Ethereum** - Simple explanations of blockchain fundamentals
+- **Localism Primer** - Core concepts of the localist movement
+- **Web3 for Community Organizers** - Bridging digital tools with on-the-ground action
+- **Regenerative Economics Basics** - Understanding circular value flows
+
+## Networks & Communities
+
+- **Ethereum Foundation Public Goods Team** - Supporting community-focused projects
+- **City Repair** - Experts in participatory placemaking
+- **Open Source Regenerative Design Network** - Contributing to tools for community resilience
+- **Local DAO Alliance** - Connection point for community-based DAOs
+
+## Funding Sources
+
+- **Gitcoin Grants** - Quadratic funding for public goods
+- **Local DAO Summer Microgrants** - Seed funding for community initiatives
+- **Regional Regenerative Networks** - Bioregional funding collectives
+- **Protocol Community Funds** - Ecosystem funding for aligned projects
+
+## Events & Programs
+
+- **Local DAO Summer 2024** - Our annual program for launching community DAOs
+- **Ethereal Forest** - Nature-based gatherings exploring regenerative crypto
+- **Regional Meetups** - Connect with others in your area interested in Ethereum Localism
+- **Online Learning Circles** - Regular study groups on key topics
+
+Want to contribute to this resource collection? Let us know what's missing or how we can improve these materials for your community.
+
 <div class="dashboard-tiles">
   <div class="project-tile" data-entry-id="00001"></div>
   <div class="project-tile" data-entry-id="00002"></div>

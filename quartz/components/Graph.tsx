@@ -102,5 +102,19 @@ export default ((opts?: GraphOptions) => {
   Graph.css = style
   Graph.afterDOMLoaded = script
 
+  // Add custom CSS for light background
+  Graph.css += `
+    .graph {
+      background-color: var(--light);
+      padding: 1rem;
+      border-radius: 5px;
+      margin-bottom: 1rem;
+    }
+    
+    .dark .graph {
+      background-color: var(--dark);
+    }
+  `
+
   return Graph
 }) satisfies QuartzComponentConstructor

@@ -5,7 +5,19 @@ import { Script } from "./quartz/components/Script"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    Component.Header({
+      title: "Ethereum Localism",
+      links: {
+        "Introduction": "/introduction",
+        "Knowledge": "/knowledge",
+        "Initiatives": "/initiatives",
+        "Resources": "/resources",
+      }
+    }),
+    Component.Darkmode(),
+    Component.Search(),
+  ],
   afterBody: [
     Component.Graph(),
     Component.Backlinks(),
@@ -20,9 +32,11 @@ export const sharedPageComponents: SharedLayout = {
     }),
   ],
   footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/clinamenic/GFEL",
-    },
+    socialLinks: {
+      "Twitter": "https://twitter.com/ethlocalism",
+      "Discord": "https://discord.gg/ethereum-localism",
+      "GitHub": "https://github.com/ethereum-localism",
+    }
   }),
 }
 
@@ -34,27 +48,34 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.TableOfContents()),
-  ],
-  right: [
-    Component.Explorer(),
-  ],
+  left: [],
+  right: [],
 }
 
 // components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(), 
+    Component.ArticleTitle(), 
+    Component.ContentMeta()
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+  ],
+  right: [],
+}
+
+// Create a dedicated resources page layout
+export const resourcePageLayout: PageLayout = {
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
   ],
   right: [],
 }

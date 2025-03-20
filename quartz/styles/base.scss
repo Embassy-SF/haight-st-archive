@@ -121,7 +121,7 @@ a {
 }
 
 .page {
-  max-width: calc(#{map-get($breakpoints, desktop)} + 300px);
+  max-width: calc(#{map-get($breakpoints, desktop)});
   margin: 0 auto;
   & article {
     & > h1 {
@@ -189,6 +189,7 @@ a {
     }
 
     & .sidebar.left {
+      width: 0px;
       z-index: 1;
       grid-area: grid-sidebar-left;
       flex-direction: column;
@@ -200,7 +201,6 @@ a {
         height: unset;
         flex-direction: row;
         padding: 0;
-        padding-top: 2rem;
       }
     }
 
@@ -246,6 +246,8 @@ a {
 
     & footer {
       grid-area: grid-footer;
+      border: 1px solid var(--lightgray);
+      border-radius: 10px;
     }
 
     & .center,
