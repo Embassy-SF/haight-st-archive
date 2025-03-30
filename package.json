@@ -1,15 +1,15 @@
 {
-  "name": "@jackyzha0/quartz",
+  "name": "@embassy-sf/haight-st-archive",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
   "version": "4.4.0",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "Embassy SF",
   "license": "MIT",
   "homepage": "https://www.haight.place",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/Embassy-SF/haight-st-archive.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
