@@ -269,6 +269,12 @@ a {
   }
 }
 
+.page-listing {
+  .tags {
+    display: none;
+  }
+}
+
 .footnotes {
   margin-top: 2rem;
   border-top: 1px solid var(--lightgray);

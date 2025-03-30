@@ -10,12 +10,8 @@ interface Options {
 
 // This is the correct pattern for Quartz components
 const Header: QuartzComponentConstructor<Options> = (opts) => {
-  const title = opts?.title ?? "Ethereum Localism"
+  const title = opts?.title ?? "Haight St. Archive"
   const links = opts?.links ?? {
-    Introduction: "/introduction",
-    Knowledge: "/knowledge",
-    Initiatives: "/initiatives",
-    Resources: "/resources",
   }
 
   // This inner function is what gets called during rendering
@@ -55,7 +51,6 @@ const Header: QuartzComponentConstructor<Options> = (opts) => {
             {Object.entries(links).map(([text, href]) => (
               <a key={href} href={href}>{text}</a>
             ))}
-            <a href="/introduction/action-kit">Action Kit</a>
           </div>
         </div>
 

@@ -7,12 +7,11 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
     Component.Header({
-      title: "Ethereum Localism",
+      title: "Haight St. Archive",
       links: {
-        "Introduction": "/introduction",
-        "Knowledge": "/knowledge",
-        "Initiatives": "/initiatives",
-        "Resources": "/resources",
+        "The Embassy": "/Embassy",
+        "Red Victorian": "/Red-Victorian",
+        "Chateau Ubuntu": "/Chateau-Ubuntu",
       }
     }),
     Component.Darkmode(),

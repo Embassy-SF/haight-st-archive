@@ -12,7 +12,7 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? {}
     const socialLinks = opts?.socialLinks ?? {
-      GitHub: "https://github.com/clinamenic/GFEL"
+      GitHub: "https://github.com/Embassy-SF/embassy-wiki"
     }
 
     return (
@@ -30,7 +30,7 @@ export default ((opts?: Options) => {
             <p>
               {i18n(cfg.locale).components.footer.createdWith}{" "}
               <a href="https://quartz.jzhao.xyz/" className="text-muted-foreground hover:text-foreground">Quartz v{version}</a>
-              {" "}&copy; {year} Ethereum Localism 
+              {" "}&copy; {year} Haight St. Archive
             </p>
           </div>
         </div>
