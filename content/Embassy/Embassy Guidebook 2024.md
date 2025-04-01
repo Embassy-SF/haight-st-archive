@@ -1,5 +1,7 @@
-**
-
+> [!note] Content Staging
+>
+> This [[/Embassy/]] document may need to be reformatted, sanitized, or otherwise enhanced to meet HSA archival standards.
+> 
 # embassy sf - the handbook
 
 The flagship location in the Embassy Network, the Embassy San Francisco is an experiment in creating a home built around purpose, intention, and exploration, in creating a community dedicated to maintaining and diversifying the commons.

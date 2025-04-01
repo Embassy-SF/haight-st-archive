@@ -1,12 +1,11 @@
 @use "../../styles/variables.scss" as *;
 
 .graph {
-  background-color: transparent;
+  background-color: transparent !important;
   
   & > h3 {
     font-size: 1rem;
     margin: 0;
-    background-color: transparent !important;
   } 
 
   & > .graph-outer {

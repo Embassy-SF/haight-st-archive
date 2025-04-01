@@ -2,7 +2,9 @@
 author: Zarinah Agnew, Tony Lai
 date:
 ---
-
+> [!note] Content Staging
+>
+> This [[/Embassy/]] document may need to be reformatted, sanitized, or otherwise enhanced to meet HSA archival standards.
 
 “All models [of RJ] are to some extent culture-bound. So restorative justice should be built from the “bottom up,” by communities in dialogue and experimentation. Also, all models are to some extent culturebound. So restorative justice should be built from the “bottom up,” by communities in dialogue assessing their needs and resources and applying the principles to their own situations. “ - the little book of restorative justice
 

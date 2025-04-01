@@ -1,4 +1,6 @@
-
+> [!note] Content Staging
+>
+> This [[/Embassy/]] document may need to be reformatted, sanitized, or otherwise enhanced to meet HSA archival standards.
 
 # welcome to the embassy sf
 

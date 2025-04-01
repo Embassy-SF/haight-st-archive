@@ -135,7 +135,7 @@
 /* Container class for consistent width and padding */
 .container {
   width: 100%;
-  max-width: 1200px;
+  max-width: 750px;
   margin: 0 auto;
   padding: 0 1rem;
   box-sizing: border-box;
@@ -590,7 +590,7 @@ body {
 .center {
   grid-column: 1 / 4 !important;
   width: 100%;
-  max-width: 1200px; /* Match the container class max-width */
+  max-width: 750px !important; /* Match the container class max-width */
   margin: 0 auto;
   padding-left: 1rem;
   padding-right: 1rem;
@@ -600,7 +600,7 @@ body {
 /* Ensure consistent article width but limit text width for readability */
 .center article {
   width: 100%;
-  max-width: 100%;
+  max-width: 750px;
 }
 
 /* Improve article content readability with appropriate width */
@@ -627,7 +627,7 @@ body {
 .center article .full-width,
 .center article img,
 .center article iframe {
-  max-width: 100%;
+  max-width: 750px;
 }
 
 /* Make sure content has proper padding with fixed header */
@@ -639,7 +639,7 @@ body {
 .center {
   grid-column: 1 / 4 !important;
   width: 100%;
-  max-width: 1200px; /* Match the container class max-width */
+  max-width: 750px; /* Match the container class max-width */
   margin: 0 auto;
   padding-left: 1rem;
   padding-right: 1rem;
